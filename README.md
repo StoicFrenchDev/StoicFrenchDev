@@ -23,7 +23,4 @@ As a Teaching Assistant at Wild Code School, I have the privilege of guiding and
 ### 🤝 Open to Collaboration
 I'm always excited to contribute to new projects and collaborate with fellow developers. Whether you're looking for a pair programming partner, need assistance with your project, or have an idea you think we could bring to life together, I'm open to exploring how we can work together. Feel free to reach out if you're interested in collaboration or just want to share ideas!
 
-### 🌱 Personal Interests
-On a more personal note, I find my balance in life thanks to many activities. I'm deeply fascinated by **Stoic philosophy**, finding its principles grounding in both my personal and professional life. My love for **Brazilian Jiu-Jitsu**, and diverse sports keeps me physically active. I am also a **DnD enthusiast** and big-time **Maté drinker**! These hobbies reflect the variety of ways I engage with the world around me, always learning and growing.
-
 Thank you for stopping by fellow traveler!
